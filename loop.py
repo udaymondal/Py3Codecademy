@@ -2,6 +2,11 @@ board_games = ['Settlers of Catan', 'Carcassone', 'Power Grid', 'Agricola', 'Scr
 
 sport_games = ['football', 'football - American', 'hockey', 'baseball', 'cricket']
 
+# This is the basic loop format
+""" -----
+for <temporary variable> in <list variable>:
+    <action>
+---------- """
 for game in board_games:
     print(game)
 
