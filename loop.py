@@ -12,3 +12,12 @@ for game in board_games:
 
 for sport in sport_games:
     print(sport)
+
+"""
+------ Use the range function in a for loop to print out promise 5 times
+"""
+promise = "I will not chew gum in class"
+
+for i in range(5):
+  print(promise)
+
