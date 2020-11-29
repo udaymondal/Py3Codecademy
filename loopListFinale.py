@@ -9,3 +9,4 @@ print(squares)
 
 cubes = [i**3 for i in single_digits]   #cube_list using comprehension
 print(cubes)
+
